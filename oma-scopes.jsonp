@@ -1,0 +1,14 @@
+fn(
+ {"values":
+   [
+     {
+       "key":"778b00b2-cecb-11ed-8fa8-0022485c522e",
+       "value":"Astra-TEST - Core команда"
+     },
+     {
+       "key":"99824c68-cef2-11ed-8fa8-0022485c522e",
+       "value":"Astra-TEST - ready for astra"
+     }
+   ]
+ }
+)
